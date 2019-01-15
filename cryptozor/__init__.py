@@ -1,1 +1,2 @@
 name = "cryptozor"
+import cryptozor

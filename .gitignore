@@ -6,5 +6,5 @@ dist/
 build/
 dist/*
 build/*
-cryptozor.egg-info/
-cryptozor.egg-info/*
+cryptozor.py.egg-info/
+cryptozor.py.egg-info/*

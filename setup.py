@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="cryptozor",
+    name="cryptozor.py",
     version="1.0.2",
     author="Merwane Draï",
     author_email="merwanedr@gmail.com",

@@ -1,11 +1,11 @@
-# Cryptozor
+# Cryptozor.py
 
 ## A Python Cryptocurrency converter.
 
 ### Installing:
 ``` bash
 # install using pip
-pip3 install cryptozor
+pip3 install cryptozor.py
 ```
 
 ### Example:
