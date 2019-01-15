@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="cryptozor",
-    version="1.0.1",
+    version="1.0.2",
     author="Merwane Draï",
     author_email="merwanedr@gmail.com",
     description="A Python Cryptocurrency converter.",
