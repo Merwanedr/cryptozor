@@ -1,0 +1,10 @@
+.vscode/*
+__pycache__/*
+.DS_Store
+.env
+dist/
+build/
+dist/*
+build/*
+cryptozor.egg-info/
+cryptozor.egg-info/*
