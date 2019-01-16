@@ -5,13 +5,15 @@ with open("README.md", "r") as fh:
 
 setup(
     name="cryptozor.py",
-    version="1.0.3",
+    version="1.0.8",
     author="Merwane Draï",
     author_email="merwanedr@gmail.com",
     description="A Python Cryptocurrency converter.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/merwanedr/cryptozor.py",
-    py_modules=["cryptozor"],
-    package_dir={'': 'src'},
+    install_requires=[
+          'requests',
+      ],
+    py_modules=["cryptozor"]
 )
